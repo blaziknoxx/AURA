@@ -1,0 +1,6 @@
+{
+  "name": "AURA",
+  "description": "Audiophile offline Hi-Res FLAC music player with real-time audio quality badges and luxury themes",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
